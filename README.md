@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 1, 2018
 
 ### Student Name:  
-(First and Last Name)
+Michael Meyers
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assingment, I had to edit and reformat code to accept values correctly to produce a functioning tax bracket calculator using loops. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
